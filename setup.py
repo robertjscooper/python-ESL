@@ -28,7 +28,7 @@ esl = Extension(
 
 setup(
     name='python-ESL',
-    version='1.4.18',
+    version='1.4.19',
     author='FreeSWITCH Developers',
     description='FreeSWITCH Event Socket Library for Python',
     url='https://github.com/sangoma/python-ESL',
