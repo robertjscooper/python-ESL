@@ -32,7 +32,7 @@ setup(
     author='FreeSWITCH Developers',
     description='FreeSWITCH Event Socket Library for Python',
     url='https://github.com/sangoma/python-ESL',
-    download_url='https://github.com/sangoma/python-ESL/tarball/1.4.18',
+    download_url='https://github.com/robertjscooper/python-ESL/tarball/1.4.18',
     cmdclass={'build': CustomBuild},
     ext_modules=[esl],
     packages=['ESL'],
